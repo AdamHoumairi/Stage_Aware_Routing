@@ -1,14 +1,8 @@
-# Stage-Aware Routing: Reorganized CTMDP Code
+# Stage-Aware Routing: CTMDP Code
 
 This compact package contains compatible implementations of the finite
 average-cost CTMDP experiments used to study stage-aware routing in two-stage
 VM-container systems.
-
-The supplied standalone files have been reorganized as a Python package so
-that relative imports resolve correctly. The incompatible file
-`n2_average_cost_ctmdp(1).py` has been replaced by the compatible
-`ctmdp_routing/n2_solver.py`, and public experiment files no longer use the
-provisional `pilot` suffix.
 
 ## Contents
 
@@ -74,10 +68,4 @@ for example, `python run_experiments.py n2-grid --limit 2` for a short run.
 All outputs are written under `results/` unless another `--output-dir` is
 specified.
 
-## Scope
 
-This package reorganizes and repairs the files supplied for the uniform-tie
-JSQ and D-Z/R-Z analyses. The weighted feeder-first and cost-sensitivity
-runners should be added separately before freezing the final repository
-release if those manuscript results are to be reproduced from the same
-snapshot.
