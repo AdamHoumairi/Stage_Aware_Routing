@@ -1,0 +1,6 @@
+group,cases,uniform_tie_numerically_optimal,uniform_tie_mean_gap_percent,uniform_tie_max_gap_percent,lowest_index_mean_gap_percent,lowest_index_max_gap_percent,uniform_tie_max_scenario_id,uniform_tie_max_K,uniform_tie_max_B,uniform_tie_max_eta,uniform_tie_max_rho
+B=1,40,40,0.0,0.0,0.0,0.0,K2_B1_lambda0p25_rho0p25_muvm0p5_muc1_hvm1_hc1_cb10,2,1,0.25,0.25
+B=2,40,0,1.316043610023746,3.88607427342059,1.2219510668080888,3.6867120212456777,K4_B2_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,2,0.5,0.5
+B=3,40,0,1.4567717224059116,4.581824232758869,1.3583472798777152,4.3215915572601435,K4_B3_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,3,0.5,0.5
+B=4,40,0,1.4099756812187743,4.583979305848071,1.3139167359393114,4.320106387566959,K4_B4_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,4,0.5,0.5
+B>=2,120,0,1.394263671216144,4.583979305848071,1.2980716942083719,4.3215915572601435,K4_B4_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,4,0.5,0.5

@@ -1,0 +1,6 @@
+group,cases,rz_globally_certified_cases,rz_numerically_full_state_optimal_cases,rz_mean_candidate_gap_percent,rz_max_candidate_gap_percent,uniform_jsq_mean_gap_percent,uniform_jsq_max_gap_percent,strict_randomization_cases,strictly_randomized_observations_total,candidate_observation_share_upper_mean_percent,uniform_rule_share_lower_mean_percent,rz_max_scenario_id,rz_max_K,rz_max_B,rz_max_eta,rz_max_rho
+B=1,40,40,40,0.0,0.0,0.0,0.0,36,130,0.0,0.0,K2_B1_lambda0p25_rho0p25_muvm0p5_muc1_hvm1_hc1_cb10,2,1,0.25,0.25
+B=2,40,0,0,1.2075133577204582,3.6827810880566023,1.316043610023746,3.88607427342059,33,52,92.94198376091065,7.0580162390893335,K4_B2_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,2,0.5,0.5
+B=3,40,0,0,1.3482164595426112,4.321452537311931,1.4567717224059116,4.581824232758869,40,83,93.34549231365285,6.654507686347147,K4_B3_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,3,0.5,0.5
+B=4,40,0,0,1.3030508366053728,4.319578240589778,1.4099756812187743,4.583979305848071,40,120,93.44732905647737,6.552670943522634,K4_B4_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,4,0.5,0.5
+B>=2,120,0,0,1.2862602179561473,4.321452537311931,1.394263671216144,4.583979305848071,113,255,93.2449350436803,6.755064956319705,K4_B3_lambda2_rho0p5_muvm2_muc1_hvm1_hc1_cb10,4,3,0.5,0.5
